@@ -2,9 +2,12 @@
 # Linux Server Configuration
 This project is for the Full Stack Web Developer nanodegree from udacity.
 
-## IP address: 18.216.72.238
-## SSH port: 2200
-## Application URL: ec2-18-216-72-238.us-east-2.compute.amazonaws.com
+## IP address: 
+18.216.72.238
+## SSH port: 
+2200
+## Application URL: 
+ec2-18-216-72-238.us-east-2.compute.amazonaws.com
 
 
 ### Configuration steps:
