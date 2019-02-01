@@ -231,3 +231,7 @@ engine = create_engine('postgresql://catalog:password@localhost/catalog')
 
 14. Restart Apache
 Run sudo service apache2 restart
+
+### Reference:
+* https://github.com/mulligan121/Udacity-Linux-Configuration/blob/master/README.md
+
